@@ -1,1 +1,2 @@
 endswitch
+auto publish test
